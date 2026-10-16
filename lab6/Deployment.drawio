@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1h_JJgAW5j1tfY7ZC9Lc">
+    <mxGraphModel dx="1420" dy="-178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-2" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;font&gt;Windows Server&lt;/font&gt;" vertex="1">
+          <mxGeometry height="436.36" width="1130.81" x="309.19" y="1193.64" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-3" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;font&gt;Docker-compose 5.0.2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="361.36" width="1080.81" x="329.19" y="1238.64" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-4" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;Docker container: server&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="270" x="730.0003948102681" y="1291.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-5" parent="1" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;font&gt;Web API Server&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="820.0003948102681" y="1331.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-6" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;div&gt;&lt;font&gt;Node.JS 18&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Express.JS 4.18.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Sequelize 6.37.8&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;jsonwebtoken 9.0.3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;bcrypt 6.0.0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;multer 2.1.1&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="111" width="220" x="750.0003948102681" y="1370.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-7" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Times New Roman;" value="&lt;font&gt;Alpine Linux 3.21.3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="860.0003948102681" y="1491.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-8" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;Docker container: database&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="270" x="359.1903948102681" y="1293.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-9" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Times New Roman;fontStyle=0" value="&lt;font&gt;Alpine Linux 3.23.3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="489.1903948102681" y="1493.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=0;fontFamily=Times New Roman;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="130" width="210" x="389.1903948102681" y="1353.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-11" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fontStyle=0" value="PostgreSQL 15.17" vertex="1">
+          <mxGeometry height="50" width="135" x="426.6903948102681" y="1422.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-12" parent="1" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=14;" value="Database Server" vertex="1">
+          <mxGeometry height="26" width="80" x="454.1903948102681" y="1393.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-13" edge="1" parent="1" source="GafkxA_Fik2Ox9CCRGkd-8" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=110;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;" target="GafkxA_Fik2Ox9CCRGkd-4" value="TCP">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="633.6503948102682" y="1405.0828571428574" as="sourcePoint" />
+            <mxPoint x="789.1903948102681" y="1403.6428571428573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-14" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;Docker container: nginx&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="270" x="1100.000394810268" y="1291.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-15" parent="1" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;font&gt;Web Server&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="1195.000394810268" y="1331.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-16" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Nginx 1.29.8" vertex="1">
+          <mxGeometry height="111" width="220" x="1125.000394810268" y="1370.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-17" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Times New Roman;" value="&lt;font&gt;Alpine Linux 3.23.4&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1231.000394810268" y="1491.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-18" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="React Bundle 18" vertex="1">
+          <mxGeometry height="70" width="150" x="1160.000394810268" y="1401.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-19" edge="1" parent="1" source="GafkxA_Fik2Ox9CCRGkd-4" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=110.00000000000001;exitDy=0;exitPerimeter=0;entryX=0.479;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;" target="GafkxA_Fik2Ox9CCRGkd-14" value="HTTP 1.1">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1014.4603948102681" y="1563.6428571428573" as="sourcePoint" />
+            <mxPoint x="1134.9203948102681" y="1564.2728571428574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-23" parent="1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="&lt;div&gt;Browser: Mozilla Firefox&lt;/div&gt;&lt;div&gt;150.0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="232" width="256" x="1490.000394810268" y="1289.6428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-24" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;div&gt;ReactJS 18.2.0&lt;/div&gt;&lt;div&gt;mui/material 9.0.0&lt;/div&gt;&lt;div&gt;Axios 1.6.0&lt;/div&gt;&lt;div&gt;react-router-dom 6.20.0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100.25" width="202" x="1512.000394810268" y="1381.3928571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="GafkxA_Fik2Ox9CCRGkd-25" edge="1" parent="1" source="GafkxA_Fik2Ox9CCRGkd-14" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=110;exitDy=0;exitPerimeter=0;entryX=0.48;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;" target="GafkxA_Fik2Ox9CCRGkd-23" value="HTTPS 1.1">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1559.1903948102681" y="1453.6428571428573" as="sourcePoint" />
+            <mxPoint x="1615.9503948102683" y="1403.8828571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

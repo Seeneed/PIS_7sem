@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0">
+  <diagram name="Страница — 1" id="81DjTX1Zt05AeOksZ2re">
+    <mxGraphModel dx="587" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-2" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=14;" value="Управление процессами медицинской регистратуры" vertex="1">
+          <mxGeometry height="90" width="180" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="350" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;font&gt;А0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="486" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="376" y="50" as="sourcePoint" />
+            <mxPoint x="376" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="374" y="360" as="sourcePoint" />
+            <mxPoint x="374" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="437" y="360" as="sourcePoint" />
+            <mxPoint x="437" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="169" as="sourcePoint" />
+            <mxPoint x="340" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="169" as="sourcePoint" />
+            <mxPoint x="640" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;span&gt;Данные пациентов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="222" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontFamily=Times New Roman;fontSize=14;" value="Внутренние правила клиники" vertex="1">
+          <mxGeometry height="30" width="80" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontFamily=Times New Roman;fontSize=14;" value="Веб-приложение" vertex="1">
+          <mxGeometry height="40" width="108" x="302" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="LOxP8aFsU5h4RWgLrdqV-20" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Сформированные талоны на приём" vertex="1">
+          <mxGeometry height="40" width="134" x="520" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="42EC3KurILKUJEXAfszZ-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="204.66" as="sourcePoint" />
+            <mxPoint x="340" y="204.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42EC3KurILKUJEXAfszZ-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;span&gt;Запросы на прием&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="222" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;span&gt;Медицинские данные осмотра&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="222" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="245" as="sourcePoint" />
+            <mxPoint x="340" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;span&gt;Обновленные ЭМК&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="532" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="204.66" as="sourcePoint" />
+            <mxPoint x="640" y="204.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="244" as="sourcePoint" />
+            <mxPoint x="640" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;span&gt;Отчёты и расписание клиники&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="132" x="532" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontFamily=Times New Roman;fontSize=14;" value="Персонал клиники" vertex="1">
+          <mxGeometry height="40" width="100" x="363" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontFamily=Times New Roman;fontSize=14;" value="Пациенты" vertex="1">
+          <mxGeometry height="40" width="100" x="423" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="495" y="360" as="sourcePoint" />
+            <mxPoint x="495" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontFamily=Times New Roman;fontSize=14;" value="Законодательство в сфере здравоохранения" vertex="1">
+          <mxGeometry height="30" width="80" x="423" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="LLop0TNEQXbbOCBOpwHL-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="496" y="50" as="sourcePoint" />
+            <mxPoint x="496" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
